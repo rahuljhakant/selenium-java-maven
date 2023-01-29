@@ -1,2 +1,2 @@
-# selenium-java-maven
- selenium - java -maven - testng - allure
+# selenium-java-testng-maven-allure
+# selenium-java-testng-maven-allure
